@@ -4,9 +4,12 @@
 
 System is inteded to be used as qualitycontrol on X2000  trains.
  
-The project could be extended with
-1. Push notice
+The project could be extended with 
+
+1. Push notice 
+
 2. Global database
-3. 
+
+3. fgss 
 
 
