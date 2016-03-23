@@ -10,6 +10,7 @@ The project could be extended with
 
 2. Global database
 
-3. fgss 
+3. Android application
+
 
 
