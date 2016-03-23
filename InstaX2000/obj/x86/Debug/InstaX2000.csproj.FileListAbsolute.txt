@@ -1,0 +1,38 @@
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\bin\Debug\InstaX2000.exe
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\bin\Debug\InstaX2000.pdb
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.Form1.resources
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.Properties.Resources.resources
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.csproj.GenerateResource.Cache
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.exe
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.pdb
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\bin\Debug\InstaControlLibrary.dll
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\bin\Debug\InstaControlLibrary.pdb
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.csprojResolveAssemblyReference.cache
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.UA2.resources
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.UB2.resources
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.URB2.resources
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.UB2X.resources
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\bin\Debug\UtilitiesLibrary.dll
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\InstaX2000\bin\Debug\UtilitiesLibrary.pdb
+C:\Users\Craps\Documents\Visual Studio 2010\Projects\InstaX2000\InstaX2000\bin\Debug\DAL.dll
+C:\Users\Craps\Documents\Visual Studio 2010\Projects\InstaX2000\InstaX2000\bin\Debug\DAL.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.exe
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\bin\Debug\TrainDB.mdf
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\bin\Debug\TrainDB_log.ldf
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\bin\Debug\InstaX2000.exe
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\bin\Debug\InstaX2000.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\bin\Debug\InstaControlLibrary.dll
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\bin\Debug\UtilitiesLibrary.dll
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\bin\Debug\DAL.dll
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\bin\Debug\InstaControlLibrary.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\bin\Debug\UtilitiesLibrary.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\bin\Debug\DAL.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.csprojResolveAssemblyReference.cache
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.Form1.resources
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.Properties.Resources.resources
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.UA2.resources
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.UB2.resources
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.UB2X.resources
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.URB2.resources
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaX2000\obj\x86\Debug\InstaX2000.csproj.GenerateResource.Cache

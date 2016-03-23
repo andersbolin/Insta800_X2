@@ -1,0 +1,30 @@
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaControlLibrary\bin\Debug\InstaControlLibrary.dll
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaControlLibrary\bin\Debug\InstaControlLibrary.pdb
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.dll
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.pdb
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.TrainGUI.resources
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.csproj.GenerateResource.Cache
+c:\users\craps\documents\visual studio 2010\Projects\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.TrainDisplay.resources
+C:\Users\Craps\Documents\Visual Studio 2010\Projects\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.Properties.Resources.resources
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\InstaControlLibrary\bin\Debug\UtilitiesLibrary.dll
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\InstaControlLibrary\bin\Debug\UtilitiesLibrary.pdb
+C:\Users\Craps\Documents\Visual Studio 2010\Projects\InstaX2000\InstaControlLibrary\bin\Debug\DAL.dll
+C:\Users\Craps\Documents\Visual Studio 2010\Projects\InstaX2000\InstaControlLibrary\bin\Debug\DAL.pdb
+C:\Users\Craps\Documents\Visual Studio 2010\Projects\InstaX2000\InstaControlLibrary\bin\Debug\TrainDB.mdf
+C:\Users\Craps\Documents\Visual Studio 2010\Projects\InstaX2000\InstaControlLibrary\bin\Debug\TrainDB_log.ldf
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\bin\Debug\TrainDB.mdf
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\bin\Debug\TrainDB_log.ldf
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\bin\Debug\InstaControlLibrary.dll
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\bin\Debug\InstaControlLibrary.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\bin\Debug\DAL.dll
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\bin\Debug\UtilitiesLibrary.dll
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\bin\Debug\DAL.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\bin\Debug\UtilitiesLibrary.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.Properties.Resources.resources
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.TrainDisplay.resources
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.TrainGUI.resources
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.csproj.GenerateResource.Cache
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.dll
+C:\Users\Anders\Desktop\C#\InstaX2000\InstaControlLibrary\obj\Debug\InstaControlLibrary.pdb

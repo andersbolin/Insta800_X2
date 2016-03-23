@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{61E281A9-43A5-4E39-8E8F-906711E07AD7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InstaControlLibrary</RootNamespace>
+    <AssemblyName>InstaControlLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Color.cs" />
+    <Compile Include="ITrain.cs" />
+    <Compile Include="Manager.cs" />
+    <Compile Include="Plats.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Stations.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestResultArgs.cs" />
+    <Compile Include="Train.cs" />
+    <Compile Include="TrainDisplay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TrainDisplay.Designer.cs">
+      <DependentUpon>TrainDisplay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrainGUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TrainGUI.Designer.cs">
+      <DependentUpon>TrainGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vagn1.cs" />
+    <Compile Include="Vagn2.cs" />
+    <Compile Include="Vagn3.cs" />
+    <Compile Include="Vagn4.cs" />
+    <Compile Include="Vagn5.cs" />
+    <Compile Include="Vagnar\UA2.cs" />
+    <Compile Include="Vagnar\UB2.cs" />
+    <Compile Include="Vagnar\UB2X.cs" />
+    <Compile Include="Vagnar\URB2.cs" />
+    <Compile Include="VagnsNummer.cs" />
+    <Compile Include="WagonFactory.cs" />
+    <Compile Include="WagonType.cs" />
+    <Compile Include="X2000.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainDisplay.resx">
+      <DependentUpon>TrainDisplay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrainGUI.resx">
+      <DependentUpon>TrainGUI.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{B02DA393-0E17-4173-9196-CE7AC1BEF65D}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UtilitiesLibrary\UtilitiesLibrary.csproj">
+      <Project>{F1AEE658-73C6-4768-8E58-A862D6CE25FF}</Project>
+      <Name>UtilitiesLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

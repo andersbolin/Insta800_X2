@@ -1,0 +1,8 @@
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\UtilitiesLibrary\bin\Debug\UtilitiesLibrary.dll
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\UtilitiesLibrary\bin\Debug\UtilitiesLibrary.pdb
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\UtilitiesLibrary\obj\Debug\UtilitiesLibrary.dll
+C:\Users\Craps\documents\visual studio 2010\Projects\InstaX2000\UtilitiesLibrary\obj\Debug\UtilitiesLibrary.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\UtilitiesLibrary\bin\Debug\UtilitiesLibrary.dll
+C:\Users\Anders\Desktop\C#\InstaX2000\UtilitiesLibrary\bin\Debug\UtilitiesLibrary.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\UtilitiesLibrary\obj\Debug\UtilitiesLibrary.dll
+C:\Users\Anders\Desktop\C#\InstaX2000\UtilitiesLibrary\obj\Debug\UtilitiesLibrary.pdb

@@ -1,0 +1,6 @@
+C:\Users\Anders\Desktop\C#\InstaX2000\UtilitiesLibrary\bin\Release\UtilitiesLibrary.dll
+C:\Users\Anders\Desktop\C#\InstaX2000\UtilitiesLibrary\bin\Release\UtilitiesLibrary.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\UtilitiesLibrary\obj\Release\UtilitiesLibrary.dll
+C:\Users\Anders\Desktop\C#\InstaX2000\UtilitiesLibrary\obj\Release\UtilitiesLibrary.pdb
+C:\Users\Anders\Desktop\C#\InstaX2000\UtilitiesLibrary\bin\Release\UtilitiesLibrary.dll.CodeAnalysisLog.xml
+C:\Users\Anders\Desktop\C#\InstaX2000\UtilitiesLibrary\bin\Release\UtilitiesLibrary.dll.lastcodeanalysissucceeded
